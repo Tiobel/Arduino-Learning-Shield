@@ -9,7 +9,7 @@ D3 -> Nokia LCD CE Pin
 
 D4 -> Nokia LCD DC Pin
 
-D5 -> RGB (Green)
+D5 -> RGB (Blue)
 
 D6 -> RGB (Red)
 
@@ -17,7 +17,7 @@ D7 -> LED 4
 
 D8 -> LED 3
 
-D9 -> RGB (Blue)
+D9 -> RGB (Green)
 
 D10 -> Buzzer
 
