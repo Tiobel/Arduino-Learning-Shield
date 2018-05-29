@@ -17,7 +17,6 @@ D10         | Buzzer
 D11         | Nokia LCD DIN Pin
 D12         | DHT Data Sensor Pin
 D13         | Nokia LCD CLK
-
 A0          | Photo-Resistor (LDR)
 A1          | Potentiometer
 A2          | LED 2
