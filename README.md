@@ -1,4 +1,4 @@
-The Arduino Learning Shield was developed for the Arduino Uno platform and allows beginners to give the first steps in the Arduino World.
+**The Arduino Learning Shield** was developed for the Arduino Uno platform and allows beginners to give the first steps in the Arduino World.
 In the Example folder, you will find diferent codes that you can upload and test.
 
 The Pinout for the Arduino Uno is the following:
@@ -18,7 +18,7 @@ D12 -> DHT Data Sensor Pin
 D13 -> Nokia LCD CLK
 
 A0 -> Photo-Resistor (LDR)
-A1 -> Potentiometer 
+A1 -> Potentiometer
 A2 -> LED 2
 A3 -> Button S2
 A4 -> Button S3
