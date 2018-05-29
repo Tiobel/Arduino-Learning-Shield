@@ -3,10 +3,15 @@ In the Example folder, you will find diferent codes that you can upload and test
 
 The Pinout for the Arduino Uno is the following:
 
-D2 -> Nokia LCD RST Pin
+Arduino Pin | Learning Shield
+------------|----------------
+D2          | Nokia LCD RST Pin
+D3          | Nokia LCD CE Pin
 
-D3 -> Nokia LCD CE Pin
+
+
 D4 -> Nokia LCD DC Pin
+
 D5 -> RGB (Blue)
 D6 -> RGB (Red)
 D7 -> LED 4
