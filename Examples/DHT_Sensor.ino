@@ -25,7 +25,7 @@
     A5 -> Button S4
 */
 
-//Donload and intall dht.h library from
+// Download and install dht.h library from
 // http://playground.arduino.cc/Main/DHTLib
 #include <dht.h>
 
