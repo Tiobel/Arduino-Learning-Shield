@@ -22,3 +22,6 @@ A1          | Potentiometer
 A2          | LED 2
 A4          | Button S3
 A5          | Button S4
+
+<img src="https://github.com/Tiobel/Arduino-Learning-Shield/blob/master/1.jpg" width="400" height="610">
+<img src="https://github.com/Tiobel/Arduino-Learning-Shield/blob/master/2.jpg" width="600" height="492">
